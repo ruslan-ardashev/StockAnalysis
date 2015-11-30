@@ -9,11 +9,11 @@ A detailed description is available in the document titled "README.pdf"!
 My stocks blog: http://stockswithruslan.blogspot.com
 
 
-![alt text](https://github.com/ruslan120101/BollingerAnalyzer/blob/master/Sample%20Screenshot%201.png)
+![alt text](https://github.com/ruslan120101/StockAnalysis/blob/master/BollingerAnalyzer/Sample%20Screenshot%201.png)
 
-![alt text](https://github.com/ruslan120101/BollingerAnalyzer/blob/master/Sample%20Screenshot%202.png)
+![alt text](https://github.com/ruslan120101/StockAnalysis/blob/master/BollingerAnalyzer/Sample%20Screenshot%202.png)
 
-![alt text](https://github.com/ruslan120101/BollingerAnalyzer/blob/master/Sample%20Screenshot%203.png)
+![alt text](https://github.com/ruslan120101/StockAnalysis/blob/master/BollingerAnalyzer/Sample%20Screenshot%203.png)
 
 
 
